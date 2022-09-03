@@ -1,9 +1,6 @@
 # COEN2310-DiscreteMathematics-FinalProject
 Discrete Mathematics final project
 
-# COEN4450-DataScience-FinalProject
-Data Science final project
-
 ## Project Description:
 
 This project consists of the implementation of an algorithm that transforms a distance matrix into a connected graph. 
